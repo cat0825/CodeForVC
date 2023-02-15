@@ -64,9 +64,9 @@ void test02()
     cout << "pArray的容量：" << pArray.getCapacity() << endl;
 }
 
-int main()
-{
-    //test01();
-    test02();
-    return 0;
-}
+// int main()
+// {
+//     //test01();
+//     test02();
+//     return 0;
+// }
